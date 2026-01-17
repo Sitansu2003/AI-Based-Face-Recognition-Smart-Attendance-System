@@ -1,0 +1,6 @@
+dataset/
+attendance.db
+attendance.csv
+*.mp4
+face_model.yml
+__pycache__/
